@@ -1,0 +1,388 @@
+.profile-child {
+  position: absolute;
+  top: -14px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 10px 6px rgba(44, 115, 209, 0.5);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1366px;
+  height: 90px;
+  opacity: 0.09;
+}
+.profile-item {
+  position: absolute;
+  top: 90px;
+  right: 113px;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-darkslateblue-300);
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.43);
+  width: 703px;
+  height: 312px;
+  opacity: 0.38;
+}
+.details {
+  position: absolute;
+  top: 314px;
+  left: 69px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkslateblue-100);
+}
+.profile-inner {
+  position: absolute;
+  top: 327.5px;
+  left: 150.5px;
+  width: 331px;
+  height: 1.5px;
+}
+.education {
+  position: absolute;
+  top: 113px;
+  left: 582px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkslateblue-100);
+}
+.path-1-icon1,
+.profile-child1 {
+  position: absolute;
+  top: 133px;
+  right: 169.52px;
+  width: 510.98px;
+  height: 3px;
+}
+.profile-child1 {
+  top: 416px;
+  right: 113px;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-darkslateblue-300);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+  width: 703px;
+  height: 229px;
+  opacity: 0.33;
+}
+.div25 {
+  position: absolute;
+  top: 423px;
+  left: 595px;
+  font-family: var(--font-segoe-ui);
+  color: var(--color-dimgray-100);
+}
+.bio-data {
+  position: absolute;
+  top: 443px;
+  left: 582px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkslateblue-100);
+}
+.profile-child2 {
+  position: absolute;
+  top: 454px;
+  right: 201px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.16);
+  border-top: 1px solid rgba(112, 112, 112, 0.3);
+  box-sizing: border-box;
+  width: 492px;
+  height: 32px;
+}
+.pp-icon {
+  position: absolute;
+  top: 101px;
+  left: 164px;
+  width: 185px;
+  height: 185px;
+  object-fit: cover;
+}
+.update {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 48.5px);
+}
+.update-wrapper {
+  position: absolute;
+  bottom: 52px;
+  left: 568px;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-crimson-200);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+  width: 177px;
+  height: 50px;
+  font-family: var(--font-segoe-ui);
+}
+.highest-education {
+  position: absolute;
+  top: 171px;
+  left: 581.5px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-dimgray-200);
+  -webkit-text-stroke: 1px rgba(217, 213, 213, 0.56);
+}
+.group-child11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkslateblue-100);
+}
+.masters-in-science {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 24.5px;
+  -webkit-text-stroke: 1px rgba(217, 213, 213, 0.56);
+}
+.group-parent {
+  position: absolute;
+  top: 159px;
+  left: 831px;
+  width: 235px;
+  height: 49px;
+}
+.major,
+.university {
+  position: absolute;
+  top: 290px;
+  left: 597.5px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-dimgray-200);
+  text-align: center;
+  -webkit-text-stroke: 1px rgba(217, 213, 213, 0.56);
+}
+.major {
+  top: 229.5px;
+  left: 615.5px;
+}
+.profile-child3 {
+  position: absolute;
+  top: 218px;
+  left: 831px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkslateblue-100);
+  width: 203px;
+  height: 50px;
+}
+.engineering {
+  position: absolute;
+  top: 231.5px;
+  left: 869.5px;
+  text-align: center;
+  -webkit-text-stroke: 1px rgba(217, 213, 213, 0.56);
+}
+.fresh-graduate-with {
+  margin: 0;
+}
+.fresh-graduate-with-container {
+  position: absolute;
+  top: 486.5px;
+  left: 581.5px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.16px;
+  line-height: 30px;
+  font-family: var(--font-ms-reference-sans-serif);
+  color: #7d7e81;
+  -webkit-text-stroke: 1px rgba(217, 213, 213, 0.56);
+}
+.profile-child4 {
+  position: absolute;
+  bottom: 102px;
+  left: 58px;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-darkslateblue-300);
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.45);
+  width: 424px;
+  height: 256px;
+  opacity: 0.38;
+}
+.johncrawfordgmailcom-405-hi {
+  position: absolute;
+  top: 401.5px;
+  left: 124.5px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.18px;
+  line-height: 40px;
+  font-family: var(--font-ms-reference-sans-serif);
+  color: var(--color-gray-400);
+  -webkit-text-stroke: 1px rgba(217, 213, 213, 0.56);
+}
+.icons8-phone-32,
+.icons8-user-location-48 {
+  position: absolute;
+  top: 553px;
+  left: 80px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.icons8-user-location-48 {
+  top: 481px;
+  left: 79px;
+}
+.icons8-birthday-cake-32,
+.icons8-mail-50 {
+  position: absolute;
+  top: 438px;
+  left: 80px;
+  width: 31px;
+  height: 31px;
+  object-fit: cover;
+}
+.icons8-birthday-cake-32 {
+  top: 597px;
+  width: 32px;
+  height: 32px;
+}
+.language-proficiency1,
+.myers-park-high,
+.rose-fernandis {
+  position: absolute;
+  -webkit-text-stroke: 1px rgba(217, 213, 213, 0.56);
+}
+.myers-park-high {
+  top: 285.5px;
+  left: 834.5px;
+  letter-spacing: 0.2px;
+  font-family: var(--font-ms-reference-sans-serif);
+  color: var(--color-gray-400);
+}
+.language-proficiency1,
+.rose-fernandis {
+  top: 349.5px;
+  left: 585.5px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-dimgray-100);
+}
+.rose-fernandis {
+  top: 354px;
+  left: 68.5px;
+  font-size: var(--font-size-8xl);
+  letter-spacing: 0.27px;
+  font-family: var(--font-ms-reference-sans-serif);
+  color: var(--color-crimson-200);
+}
+.icons8-down-24,
+.icons8-down-241 {
+  position: absolute;
+  top: 233px;
+  left: 995px;
+  width: 21px;
+  height: 21px;
+  object-fit: cover;
+}
+.icons8-down-241 {
+  top: 173px;
+  left: 1024px;
+}
+.english {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 36px);
+  -webkit-text-stroke: 1px rgba(217, 213, 213, 0.56);
+}
+.icons8-multiply-30 {
+  position: absolute;
+  top: calc(50% - 10px);
+  right: 16px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.english-parent {
+  position: absolute;
+  top: 334px;
+  left: 831px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkslateblue-100);
+  width: 169px;
+  height: 50px;
+  text-align: center;
+}
+.icons8-multiply-301 {
+  position: absolute;
+  top: 342px;
+  right: 209px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.germany {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 42px);
+  -webkit-text-stroke: 1px rgba(217, 213, 213, 0.56);
+}
+.germany-parent {
+  position: absolute;
+  top: 334px;
+  right: 181px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkslateblue-100);
+  width: 169px;
+  height: 50px;
+  text-align: center;
+}
+.icons8-notification-502 {
+  position: absolute;
+  top: 24px;
+  right: 202px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.about-us2,
+.home2 {
+  position: absolute;
+  top: 27px;
+  left: 916px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  font-family: var(--font-segoe-ui);
+  color: var(--color-silver-200);
+  cursor: pointer;
+}
+.about-us2 {
+  top: 28px;
+  left: 1009px;
+}
+.icons8-graduation-cap-50-22 {
+  position: absolute;
+  top: 14px;
+  left: 89px;
+  width: 52px;
+  height: 52px;
+  object-fit: cover;
+}
+.hischolars2 {
+  position: absolute;
+  top: 22px;
+  left: 153px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-sitka-small);
+  color: var(--color-darkslateblue-100);
+}
+.icons8-circled-user-male-skin-2,
+.icons8-search-502 {
+  position: absolute;
+  top: 26px;
+  right: 134px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.icons8-circled-user-male-skin-2 {
+  top: 12px;
+  right: 47px;
+  width: 54px;
+  height: 54px;
+}
+.profile {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 766px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-mongolian-baiti);
+}

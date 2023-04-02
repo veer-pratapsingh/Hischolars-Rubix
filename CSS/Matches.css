@@ -1,0 +1,638 @@
+.path-398-icon {
+  position: absolute;
+  top: 89px;
+  right: 0;
+  width: 1518.98px;
+  height: 991px;
+  opacity: 0.41;
+}
+.matches-child {
+  position: absolute;
+  top: 92.5px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 20px 3px 6px rgba(41, 52, 98, 0.05);
+  width: 379px;
+  height: 987.5px;
+  mix-blend-mode: darken;
+}
+.matches-item {
+  position: absolute;
+  top: 128.5px;
+  left: 35px;
+  border-radius: var(--br-9xl);
+  background-color: var(--color-mediumslateblue-400);
+  width: 324px;
+  height: 88px;
+}
+.my-scholarships3 {
+  position: absolute;
+  top: 154.5px;
+  left: 94px;
+  font-size: var(--font-size-8xl);
+  color: var(--color-darkslateblue-100);
+  text-align: center;
+}
+.frame33,
+.frame34,
+.frame35 {
+  position: absolute;
+  top: 446.5px;
+  left: 35px;
+  background-color: var(--color-white);
+  width: 238px;
+  height: 52px;
+  opacity: 0;
+}
+.frame34,
+.frame35 {
+  top: 385.5px;
+  left: 31.5px;
+}
+.frame35 {
+  top: 573.5px;
+  left: 40px;
+}
+.name19 {
+  position: absolute;
+  top: 583.5px;
+  left: 107px;
+  letter-spacing: 0.14px;
+  font-family: var(--font-poppins-medium);
+}
+.icons-navigation-icon-12-st7 {
+  position: absolute;
+  top: 587.5px;
+  left: 60px;
+  width: 24px;
+  height: 24px;
+}
+.name20,
+.name21,
+.name22 {
+  position: absolute;
+  top: 520.5px;
+  left: 107px;
+  letter-spacing: 0.14px;
+  font-family: var(--font-poppins-medium);
+}
+.name21,
+.name22 {
+  top: 459.5px;
+}
+.name22 {
+  top: 399.5px;
+}
+.frame36,
+.ic-invoice-icon4 {
+  position: absolute;
+  top: 460.5px;
+  left: 60px;
+  width: 24px;
+  height: 24px;
+}
+.frame36 {
+  top: 327.5px;
+  left: 40px;
+  background-color: var(--color-white);
+  width: 238px;
+  height: 52px;
+  opacity: 0;
+}
+.name23 {
+  position: absolute;
+  top: 341.5px;
+  left: 107px;
+  letter-spacing: 0.14px;
+  font-family: var(--font-poppins-medium);
+  color: var(--color-mediumslateblue-200);
+}
+.icons8-documents-503 {
+  position: absolute;
+  top: 341.5px;
+  left: 57px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.bg3,
+.value4 {
+  position: absolute;
+}
+.bg3 {
+  top: 346.5px;
+  left: 232px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-crimson-300);
+  width: 26px;
+  height: 17px;
+}
+.value4 {
+  top: 347.5px;
+  left: 241.5px;
+  font-size: var(--font-size-xs);
+  line-height: 16px;
+  font-family: var(--font-muli);
+  color: var(--color-white);
+}
+.frame37 {
+  top: 334px;
+  left: 46px;
+  border-radius: 0 var(--br-9xs) var(--br-9xs) 0;
+  background-color: var(--color-mediumslateblue-100);
+  width: 238px;
+  height: 52px;
+  opacity: 0.05;
+}
+.frame37,
+.line17,
+.name24 {
+  position: absolute;
+}
+.name24 {
+  top: 276.5px;
+  left: 107px;
+  letter-spacing: 0.14px;
+  font-family: var(--font-poppins-medium);
+}
+.line17 {
+  top: 333.5px;
+  left: 44px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumslateblue-200);
+  width: 4px;
+  height: 52px;
+}
+.icons-navigation-icon-12-st8 {
+  position: absolute;
+  top: 280.5px;
+  left: 60px;
+  width: 24px;
+  height: 24px;
+}
+.icons8-check-document-323,
+.icons8-favorite-50-13 {
+  position: absolute;
+  top: 525.5px;
+  left: 56px;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.icons8-favorite-50-13 {
+  top: 395.5px;
+  width: 32px;
+  height: 32px;
+}
+.scholarship-matches {
+  position: absolute;
+  top: 139px;
+  left: 478px;
+  font-size: 50px;
+  color: var(--color-darkslateblue-100);
+}
+.scholarships-worth-40000- {
+  position: absolute;
+  top: 240px;
+  left: 480px;
+  font-size: var(--font-size-6xl);
+}
+.matches-inner {
+  position: absolute;
+  top: 234px;
+  left: 904px;
+  border-radius: 23px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 340px;
+  height: 45px;
+  opacity: 0.33;
+}
+.icons8-search-24 {
+  position: absolute;
+  top: 245px;
+  left: 920px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.search-by-keywords {
+  position: absolute;
+  top: 240px;
+  left: 960px;
+  color: var(--color-lightslategray);
+}
+.path-8-icon4 {
+  position: absolute;
+  height: calc(100% + 30px);
+  width: calc(100% + 30px);
+  top: 0;
+  right: -30px;
+  bottom: -30px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.swami-dayanand-college {
+  position: absolute;
+  top: calc(50% - 21.28px);
+  left: 44.93px;
+  text-align: center;
+}
+.group-child32 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-crimson-200);
+  height: 59.29px;
+}
+.icons8-star-filled-3012 {
+  position: absolute;
+  height: calc(100% - 4px);
+  top: 2.02px;
+  right: 0;
+  bottom: 1.98px;
+  max-height: 100%;
+  width: 42px;
+  object-fit: cover;
+}
+.div46 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.icons8-star-filled-30-parent10 {
+  position: absolute;
+  right: 0;
+  bottom: 4px;
+  width: 97px;
+  height: 46px;
+}
+.apply19 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 47px);
+  color: var(--color-whitesmoke-100);
+}
+.icons8-favorite-5016 {
+  position: absolute;
+  bottom: 0;
+  left: 13px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  opacity: 0.38;
+}
+.rectangle-parent15 {
+  position: absolute;
+  height: calc(100% - 23.07px);
+  top: 17.11px;
+  right: 78.51px;
+  bottom: 5.96px;
+  width: 182px;
+  font-size: var(--font-size-15xl);
+  color: var(--color-dimgray-100);
+}
+.always-open2 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 15.29px;
+}
+.always-open-wrapper {
+  position: absolute;
+  bottom: 16.96px;
+  left: calc(50% + 194.26px);
+  border-radius: var(--br-13xl);
+  background-color: var(--color-goldenrod);
+  width: 133.59px;
+  height: 82.36px;
+  font-size: var(--font-size-lg);
+  color: var(--color-linen);
+}
+.path-8-container {
+  position: absolute;
+  width: calc(100% - 17.21px);
+  top: 0;
+  right: 5.55px;
+  left: 11.66px;
+  height: 138.57px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslateblue-100);
+}
+.div47 {
+  position: absolute;
+  top: calc(50% - 225.31px);
+  left: calc(50% - 113.89px);
+  font-size: var(--font-size-21xl);
+  text-align: center;
+}
+.inspire-scholarship-for2 {
+  position: absolute;
+  top: calc(50% - 19.3px);
+  left: 56.77px;
+}
+.applicable-till-container2 {
+  position: absolute;
+  top: calc(50% - 24px);
+  left: 11.94px;
+  white-space: pre-wrap;
+}
+.applicable-till-january-frame {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-goldenrod);
+}
+.group-wrapper4 {
+  position: absolute;
+  bottom: 21.09px;
+  left: calc(50% + 207.95px);
+  width: 133.23px;
+  height: 90px;
+  font-size: var(--font-size-lg);
+  color: var(--color-whitesmoke-100);
+}
+.rectangle-parent16 {
+  position: absolute;
+  height: calc(100% - 27.2px);
+  top: 18.86px;
+  right: 74.06px;
+  bottom: 8.34px;
+  width: 182px;
+  font-size: var(--font-size-15xl);
+  color: var(--color-dimgray-100);
+}
+.path-3-parent {
+  width: calc(100% - 5.55px);
+  top: calc(50% - 337.91px);
+  right: 5.55px;
+  left: 0;
+  height: 142.7px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslateblue-100);
+}
+.apply21,
+.div49,
+.path-3-parent {
+  position: absolute;
+}
+.div49 {
+  top: calc(50% - 22.27px);
+  left: calc(50% + 221.84px);
+}
+.apply21 {
+  top: calc(50% - 18.27px);
+  right: 60.38px;
+  color: var(--color-whitesmoke-100);
+}
+.opens-till {
+  margin: 0;
+}
+.opens-till-may-17-container {
+  position: absolute;
+  top: calc(50% - 25.46px);
+  left: 17.67px;
+  white-space: pre-wrap;
+}
+.opens-till-may-17-2023-wrapper {
+  position: absolute;
+  top: 20.92px;
+  left: calc(50% + 202.51px);
+  border-radius: var(--br-17xl);
+  background-color: var(--color-goldenrod);
+  width: 142.17px;
+  height: 85.84px;
+}
+.fulbright-nehru-masters-fello {
+  position: absolute;
+  top: calc(50% - 22.34px);
+  left: 45.11px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslateblue-100);
+}
+.rectangle-parent17 {
+  position: absolute;
+  height: calc(100% - 25.14px);
+  top: 12.07px;
+  right: 81.55px;
+  bottom: 13.07px;
+  width: 182px;
+  font-size: var(--font-size-15xl);
+  color: var(--color-dimgray-100);
+}
+.path-2-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-wrapper5 {
+  position: absolute;
+  width: calc(100% - 17.21px);
+  top: calc(50% - 134.91px);
+  right: 5.55px;
+  left: 11.66px;
+  height: 140.64px;
+  font-size: var(--font-size-lg);
+  color: var(--color-whitesmoke-100);
+}
+.div51 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% + 235.93px);
+}
+.rectangle-parent18 {
+  position: absolute;
+  height: calc(100% - 23.07px);
+  top: 17.11px;
+  right: 78.51px;
+  bottom: 5.96px;
+  width: 182px;
+}
+.the-inlaks-shivdasani2 {
+  position: absolute;
+  top: calc(50% - 17.5px);
+  left: 72.11px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslateblue-100);
+  text-align: center;
+}
+.path-8-parent1 {
+  position: absolute;
+  width: calc(100% - 17.21px);
+  top: calc(50% + 54.44px);
+  right: 5.55px;
+  left: 11.66px;
+  height: 138.57px;
+}
+.days-to-go-container {
+  position: absolute;
+  top: calc(50% - 24px);
+  left: calc(50% - 44.5px);
+  white-space: pre-wrap;
+}
+.days-to-go-wrapper {
+  position: absolute;
+  top: calc(50% + 82.55px);
+  left: calc(50% + 221.23px);
+  border-radius: var(--br-13xl);
+  background-color: var(--color-goldenrod);
+  width: 133.59px;
+  height: 82.36px;
+  font-size: var(--font-size-lg);
+  color: var(--color-linen);
+}
+.path-8-parent2 {
+  position: absolute;
+  width: calc(100% - 17.21px);
+  right: 0;
+  bottom: 146.05px;
+  left: 17.21px;
+  height: 138.57px;
+}
+.cornell-university-tata1 {
+  position: absolute;
+  top: calc(50% + 290.97px);
+  left: 87.21px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslateblue-100);
+  text-align: center;
+}
+.group-parent3 {
+  position: absolute;
+  height: calc(100% + 368px);
+  width: 100%;
+  top: 5px;
+  right: 0;
+  bottom: -373px;
+  left: 0;
+}
+.scroll-group-5 {
+  position: absolute;
+  right: 128.22px;
+  bottom: 88.38px;
+  width: 1338.37px;
+  height: 680.62px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-15xl);
+  color: var(--color-dimgray-100);
+}
+.matches-child1 {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 10px 6px rgba(44, 115, 209, 0.5);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 90px;
+  opacity: 0.09;
+}
+.about-us6,
+.home6 {
+  position: absolute;
+  top: 21px;
+  left: 1348px;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  color: var(--color-silver-200);
+  cursor: pointer;
+}
+.about-us6 {
+  left: 1474px;
+}
+.icons8-graduation-cap-50-26 {
+  position: absolute;
+  top: 11px;
+  left: 66px;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+}
+.hischolars6 {
+  position: absolute;
+  top: 27px;
+  left: 159px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-sitka-small);
+  color: var(--color-darkslateblue-100);
+}
+.icons8-circled-user-male-skin-5,
+.icons8-search-506 {
+  position: absolute;
+  top: 21px;
+  right: 156px;
+  width: 41px;
+  height: 41px;
+  object-fit: cover;
+}
+.icons8-circled-user-male-skin-5 {
+  top: 9px;
+  right: 47px;
+  width: 65px;
+  height: 65px;
+  cursor: pointer;
+}
+.icons8-notification-505 {
+  position: absolute;
+  top: 24px;
+  right: 241px;
+  width: 38px;
+  height: 38px;
+  object-fit: cover;
+}
+.frame38,
+.frame39 {
+  position: absolute;
+  width: 238px;
+  height: 52px;
+  opacity: 0;
+}
+.frame38 {
+  top: 446.5px;
+  left: 40px;
+  background-color: var(--color-white);
+}
+.frame39 {
+  top: 516.5px;
+  left: 35px;
+  cursor: pointer;
+}
+.frame39,
+.frame41,
+.matches {
+  background-color: var(--color-white);
+}
+.frame41 {
+  position: absolute;
+  top: 269px;
+  left: 25.5px;
+  width: 238px;
+  height: 52px;
+  opacity: 0;
+  cursor: pointer;
+}
+.matches {
+  position: relative;
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-500);
+  font-family: var(--font-segoe-ui);
+}

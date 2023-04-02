@@ -1,0 +1,521 @@
+.the-inlaks-shivdasani,
+.top-scholarships {
+  position: absolute;
+  color: var(--color-darkslateblue-100);
+}
+.top-scholarships {
+  top: 202px;
+  right: 138px;
+  font-size: var(--font-size-18xl);
+  text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.16);
+}
+.the-inlaks-shivdasani {
+  top: 151px;
+  left: 193px;
+  font-size: var(--font-size-21xl);
+}
+.studying-in-universities {
+  margin: 0;
+}
+.the-inlaks-shivdasani-container {
+  position: absolute;
+  top: 257px;
+  left: 203px;
+  font-size: var(--font-size-8xl);
+}
+.overview-int-child,
+.overview-int-child1,
+.overview-int-inner,
+.overview-int-item {
+  position: absolute;
+  top: 294px;
+  right: 86px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 371px;
+  height: 69px;
+}
+.overview-int-child1,
+.overview-int-inner,
+.overview-int-item {
+  top: 388px;
+}
+.overview-int-child1,
+.overview-int-inner {
+  top: 482px;
+}
+.overview-int-child1 {
+  top: 576px;
+}
+.line-icon,
+.overview-int-child2 {
+  position: absolute;
+  top: 550px;
+  left: 177px;
+  width: 1143px;
+  height: 2px;
+  opacity: 0.5;
+}
+.overview-int-child2 {
+  top: 227px;
+  left: 189.5px;
+  width: 1130.5px;
+  height: 5px;
+}
+.path-1-icon {
+  position: absolute;
+  top: 233px;
+  left: 1348.5px;
+  width: 0;
+  height: 0;
+}
+.overview-int-child3,
+.overview-int-child4 {
+  position: absolute;
+  top: 773px;
+  left: 172.5px;
+  width: 1147.5px;
+  height: 2px;
+  opacity: 0.5;
+}
+.overview-int-child4 {
+  top: 1193.5px;
+  width: 1148.01px;
+  height: 7px;
+}
+.this-scholarship-program {
+  position: absolute;
+  top: 563px;
+  left: 193px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--color-crimson-200);
+}
+.eligibility,
+.inlaks-fellowship-for,
+.inlaks-fine-arts,
+.inlaks-theatre-awards {
+  position: absolute;
+  top: 639px;
+  left: 203px;
+  font-size: var(--font-size-8xl);
+}
+.eligibility,
+.inlaks-fellowship-for,
+.inlaks-theatre-awards {
+  top: 679px;
+}
+.eligibility,
+.inlaks-theatre-awards {
+  top: 724px;
+}
+.eligibility {
+  top: 779px;
+  left: 193px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--color-crimson-200);
+}
+.no-candidate-should,
+.the-candidate-must-container {
+  position: absolute;
+  top: 844px;
+  left: 203px;
+  font-size: var(--font-size-8xl);
+}
+.no-candidate-should {
+  top: 930px;
+  left: 201px;
+}
+.also-the-applicant-container,
+.have-fulfilled-all,
+.hold-a-first-class {
+  position: absolute;
+  top: 979px;
+  left: 203px;
+  font-size: var(--font-size-8xl);
+}
+.also-the-applicant-container,
+.have-fulfilled-all {
+  top: 1028px;
+}
+.also-the-applicant-container {
+  top: 1086px;
+}
+.list-of-mandatory {
+  position: absolute;
+  top: 1205px;
+  left: 193px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--color-crimson-200);
+}
+.div10,
+.div11,
+.div12,
+.div13 {
+  position: absolute;
+  top: 714px;
+  left: 149px;
+  color: var(--color-gray-900);
+}
+.div11,
+.div12,
+.div13 {
+  top: 844px;
+}
+.div12,
+.div13 {
+  top: 897px;
+}
+.div13 {
+  top: 949px;
+}
+.div14 {
+  top: 1170px;
+  left: 149px;
+}
+.div14,
+.div15,
+.div16 {
+  position: absolute;
+  color: var(--color-gray-900);
+}
+.div15 {
+  top: 1278px;
+  left: 149px;
+}
+.div16 {
+  bottom: 201px;
+  left: 152px;
+}
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  position: absolute;
+  top: 1221px;
+  left: 149px;
+  color: var(--color-gray-900);
+}
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 792px;
+}
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 584px;
+}
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 503px;
+}
+.div21,
+.div22,
+.div23 {
+  top: 542px;
+}
+.div22,
+.div23 {
+  top: 328px;
+}
+.div23 {
+  top: 263px;
+}
+.evidence-of-admission,
+.financial-requirements-of,
+.photocopy-of-the {
+  position: absolute;
+  top: 1260px;
+  left: 201px;
+  font-size: var(--font-size-8xl);
+}
+.financial-requirements-of,
+.photocopy-of-the {
+  top: 1310px;
+  left: 203px;
+}
+.photocopy-of-the {
+  top: 1358px;
+}
+.at-least-one-container,
+.candidates-applying-in-container {
+  position: absolute;
+  bottom: 277px;
+  left: 201px;
+  font-size: var(--font-size-8xl);
+}
+.candidates-applying-in-container {
+  bottom: 189px;
+  left: 203px;
+}
+.overview-int-child5,
+.overview-int-child6 {
+  position: absolute;
+  border-radius: var(--br-41xl);
+}
+.overview-int-child5 {
+  top: 728px;
+  right: 108px;
+  background-color: var(--color-crimson-200);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.16);
+  width: 329px;
+  height: 102px;
+}
+.overview-int-child6 {
+  top: 1293px;
+  right: 128px;
+  background-color: var(--color-goldenrod);
+  width: 290px;
+  height: 92px;
+}
+.apply9,
+.submit1 {
+  position: absolute;
+  top: 758px;
+  right: 224px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  text-shadow: 10px 10px 10px rgba(251, 251, 251, 0.16);
+}
+.submit1 {
+  top: 1318px;
+  right: 211px;
+}
+.commonwealth-scholarships {
+  position: absolute;
+  top: 311px;
+  right: 100px;
+  font-size: var(--font-size-6xl);
+}
+.india-global-leaders,
+.national-overseas-scholarship {
+  position: absolute;
+  top: 407px;
+  right: 107px;
+  font-size: var(--font-size-4xl);
+}
+.india-global-leaders {
+  top: 501px;
+  right: 95px;
+}
+.cornell-university-tata {
+  position: absolute;
+  top: 591px;
+  right: 91px;
+  font-size: var(--font-size-3xl);
+}
+.line-div {
+  position: absolute;
+  top: 263.5px;
+  right: 115.5px;
+  border-top: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 326px;
+  height: 2px;
+  opacity: 0.5;
+}
+.overview-int-child7,
+.overview-int-child8 {
+  position: absolute;
+  top: 201.5px;
+  left: 1401.5px;
+  border-right: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 2px;
+  height: 603px;
+  opacity: 0.49;
+}
+.overview-int-child8 {
+  top: 990.5px;
+  height: 380px;
+  opacity: 0.5;
+}
+.feedback {
+  position: absolute;
+  top: 928px;
+  right: 194px;
+  font-size: var(--font-size-18xl);
+  color: var(--color-darkslateblue-100);
+}
+.overview-int-child10,
+.overview-int-child9 {
+  position: absolute;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.overview-int-child9 {
+  top: 1020px;
+  right: 66px;
+  border-radius: var(--br-7xl);
+  width: 398px;
+  height: 174px;
+}
+.overview-int-child10 {
+  top: 1205px;
+  right: 259px;
+  width: 1px;
+  height: 1px;
+}
+.write-your-views {
+  position: absolute;
+  top: 1042px;
+  right: 254px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  color: var(--color-darkslateblue-100);
+}
+.icons8-star-50 {
+  position: absolute;
+  top: 1205px;
+  left: 1522px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.icons8-star-501,
+.icons8-star-502,
+.icons8-star-503,
+.icons8-star-504 {
+  position: absolute;
+  top: 1205px;
+  right: 297px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.icons8-star-502,
+.icons8-star-503,
+.icons8-star-504 {
+  right: 248px;
+}
+.icons8-star-503,
+.icons8-star-504 {
+  right: 197px;
+}
+.icons8-star-504 {
+  right: 148px;
+}
+.overview-int-child11 {
+  position: absolute;
+  top: 990.5px;
+  right: 176.5px;
+  border-top: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 197px;
+  height: 2px;
+}
+.logo-icon {
+  position: absolute;
+  top: 135px;
+  left: 880px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.div24 {
+  position: absolute;
+  top: 1122px;
+  left: 152px;
+  color: var(--color-gray-900);
+}
+.overview-int-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 10px 6px rgba(44, 115, 209, 0.5);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 90px;
+  opacity: 0.09;
+}
+.about-us1,
+.home1 {
+  position: absolute;
+  top: 25px;
+  left: 1348px;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  color: var(--color-silver-200);
+  cursor: pointer;
+}
+.about-us1 {
+  top: 24px;
+  left: 1474px;
+}
+.icons8-graduation-cap-50-21 {
+  position: absolute;
+  top: 15px;
+  left: 66px;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+}
+.hischolars1 {
+  position: absolute;
+  top: 31px;
+  left: 159px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-sitka-small);
+  color: var(--color-darkslateblue-100);
+}
+.icons8-circled-user-male-skin-1,
+.icons8-search-501 {
+  position: absolute;
+  top: 25px;
+  right: 156px;
+  width: 41px;
+  height: 41px;
+  object-fit: cover;
+}
+.icons8-circled-user-male-skin-1 {
+  top: 13px;
+  right: 47px;
+  width: 65px;
+  height: 65px;
+  cursor: pointer;
+}
+.icons8-notification-501 {
+  position: absolute;
+  top: 26px;
+  right: 241px;
+  width: 38px;
+  height: 38px;
+  object-fit: cover;
+}
+.icons8-back-arrow-48 {
+  position: absolute;
+  top: 167px;
+  left: 109px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.overview-int {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1759px;
+  text-align: left;
+  font-size: var(--font-size-131xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-segoe-ui);
+}

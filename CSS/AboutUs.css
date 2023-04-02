@@ -1,0 +1,243 @@
+.about-us-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  box-shadow: 0 10px 6px rgba(44, 115, 209, 0.5);
+  width: 1920px;
+  height: 105px;
+  opacity: 0.09;
+}
+.about-us-inner,
+.about-us-item {
+  position: absolute;
+  top: 309px;
+  left: -0.5px;
+  width: 1920px;
+  height: 10px;
+}
+.about-us-inner {
+  top: 0;
+  left: 0;
+  background-color: var(--color-crimson-200);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  height: 319px;
+  opacity: 0.67;
+}
+.about-us9 {
+  position: absolute;
+  top: 150px;
+  left: 152px;
+  font-size: var(--font-size-73xl);
+  color: var(--color-whitesmoke-200);
+}
+.istockphoto-881484382-1024x102-icon {
+  position: absolute;
+  top: -967px;
+  left: -51px;
+  width: 2022px;
+  height: 1348px;
+  object-fit: cover;
+}
+.about-us-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-100);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 381px;
+  opacity: 0.81;
+}
+.about-us10,
+.b10 {
+  position: absolute;
+  font-size: var(--font-size-73xl);
+}
+.about-us10 {
+  top: 197px;
+  left: 123px;
+  color: var(--color-whitesmoke-200);
+  text-shadow: 10px 10px 10px rgba(243, 238, 238, 0.16);
+  opacity: 0.92;
+}
+.b10 {
+  top: 503px;
+  left: 185px;
+  color: #170404;
+}
+.hischolars8 {
+  color: var(--color-crimson-200);
+}
+.span11 {
+  color: var(--color-gray-1000);
+}
+.hischolars-is-one-stop-solutio {
+  margin: 0;
+  color: var(--color-gray-300);
+}
+.sanction-and-disbursal-of-vari {
+  margin: 0;
+}
+.blank-line16,
+.vision {
+  margin: 0;
+  color: var(--color-gray-1000);
+}
+.vision {
+  color: var(--color-darkslateblue-100);
+}
+.hischolars-is-one-stop-container {
+  position: absolute;
+  bottom: 278px;
+  left: 130px;
+  font-size: var(--font-size-9xl);
+  white-space: pre-wrap;
+  opacity: 0.65;
+  color: var(--color-gray-800);
+  font-family: var(--font-rockwell);
+}
+.b11,
+.b12,
+.b13,
+.b14,
+.b15 {
+  position: absolute;
+  top: 792px;
+  left: 152px;
+}
+.b12,
+.b13,
+.b14,
+.b15 {
+  top: 756px;
+}
+.b13,
+.b14,
+.b15 {
+  top: 832px;
+}
+.b14,
+.b15 {
+  top: 907px;
+}
+.b15 {
+  top: 868px;
+}
+.b16,
+.b17,
+.b18,
+.b19 {
+  position: absolute;
+  top: 958px;
+  left: 136px;
+  font-size: var(--font-size-102xl);
+}
+.b17,
+.b18,
+.b19 {
+  top: 1086px;
+}
+.b18,
+.b19 {
+  top: 1408px;
+}
+.b19 {
+  top: 1247px;
+}
+.about-us-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 105px;
+}
+.about-us11,
+.home8 {
+  position: absolute;
+  top: 35px;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  color: var(--color-silver-200);
+}
+.home8 {
+  left: 1259px;
+  cursor: pointer;
+}
+.about-us11 {
+  left: 1404px;
+}
+.icons8-graduation-cap-50-28 {
+  position: absolute;
+  top: 14px;
+  left: 103px;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+}
+.hischolars10 {
+  position: absolute;
+  top: 39px;
+  left: 200px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-sitka-small);
+  color: var(--color-darkslateblue-100);
+}
+.icons8-search-508 {
+  position: absolute;
+  top: 35px;
+  right: 306px;
+  width: 41px;
+  height: 41px;
+  object-fit: cover;
+}
+.register1 {
+  position: absolute;
+  top: calc(50% - 9.5px);
+  left: calc(50% - 55px);
+}
+.register-container {
+  position: absolute;
+  top: 22px;
+  right: 73px;
+  border-radius: var(--br-30xl);
+  background-color: var(--color-darkslateblue-100);
+  width: 170px;
+  height: 59px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-sitka-small);
+}
+.hischolars-all-rights1 {
+  position: absolute;
+  top: calc(50% - 19px);
+  left: calc(50% - 276px);
+}
+.hischolars-all-rights-reserve-wrapper {
+  position: absolute;
+  bottom: 1px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 98px;
+  opacity: 0.56;
+  font-size: var(--font-size-10xl);
+  color: var(--color-darkgray-100);
+}
+.about-us8 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1921px;
+  text-align: left;
+  font-size: var(--font-size-57xl);
+  color: var(--color-gray-1000);
+  font-family: var(--font-segoe-ui);
+}

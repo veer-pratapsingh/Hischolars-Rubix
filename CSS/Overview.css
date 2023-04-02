@@ -1,0 +1,522 @@
+.swami-dayanand-college1,
+.top-scholarships1 {
+  position: absolute;
+  color: var(--color-darkslateblue-100);
+}
+.top-scholarships1 {
+  top: 202px;
+  right: 138px;
+  font-size: var(--font-size-18xl);
+  text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.16);
+}
+.swami-dayanand-college1 {
+  top: 151px;
+  left: 193px;
+  font-size: var(--font-size-21xl);
+}
+.we-fund-the {
+  margin: 0;
+}
+.we-fund-the-container {
+  position: absolute;
+  top: 240px;
+  left: 193px;
+}
+.overview-child,
+.overview-child1,
+.overview-inner,
+.overview-item {
+  position: absolute;
+  top: 294px;
+  right: 98px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 359px;
+  height: 69px;
+}
+.overview-child1,
+.overview-inner,
+.overview-item {
+  top: 388px;
+}
+.overview-child1,
+.overview-inner {
+  top: 482px;
+}
+.overview-child1 {
+  top: 576px;
+}
+.overview-child2,
+.overview-child3 {
+  position: absolute;
+  top: 550px;
+  left: 177px;
+  width: 1143px;
+  height: 2px;
+  opacity: 0.5;
+}
+.overview-child3 {
+  top: 227px;
+  left: 189.5px;
+  width: 1130.5px;
+  height: 5px;
+}
+.path-1-icon3 {
+  position: absolute;
+  top: 233px;
+  left: 1348.5px;
+  width: 0;
+  height: 0;
+}
+.overview-child4,
+.overview-child5 {
+  position: absolute;
+  top: 773px;
+  left: 172.5px;
+  width: 1147.5px;
+  height: 2px;
+  opacity: 0.5;
+}
+.overview-child5 {
+  top: 1193.5px;
+  width: 1148px;
+  height: 7px;
+}
+.this-scholarship-program1 {
+  position: absolute;
+  top: 563px;
+  left: 193px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--color-crimson-200);
+}
+.india-scholarships,
+.usa-scholarships {
+  position: absolute;
+  top: 629px;
+  left: 203px;
+}
+.india-scholarships {
+  top: 674px;
+}
+.eligibility1,
+.vande-mataram-contest {
+  position: absolute;
+  top: 714px;
+  left: 203px;
+}
+.eligibility1 {
+  top: 779px;
+  left: 193px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--color-crimson-200);
+}
+.the-scholarship-is-container {
+  position: absolute;
+  top: 844px;
+  left: 203px;
+}
+.annual-family-income,
+.or-above-marks {
+  position: absolute;
+  top: 927px;
+  left: 203px;
+}
+.annual-family-income {
+  top: 979px;
+}
+.dual-scholarships-are-container {
+  position: absolute;
+  top: 1028px;
+  left: 203px;
+}
+.preference-for-students-container {
+  position: absolute;
+  top: 1109px;
+  left: 201px;
+}
+.list-of-mandatory1 {
+  position: absolute;
+  top: 1205px;
+  left: 193px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--color-crimson-200);
+}
+.div60,
+.div61,
+.div62,
+.div63,
+.div64,
+.div65,
+.div66 {
+  position: absolute;
+  top: 704px;
+  left: 149px;
+  font-size: var(--font-size-131xl);
+  color: var(--color-gray-900);
+}
+.div61,
+.div62,
+.div63,
+.div64,
+.div65,
+.div66 {
+  top: 844px;
+}
+.div62,
+.div63,
+.div64,
+.div65,
+.div66 {
+  top: 897px;
+}
+.div63,
+.div64,
+.div65,
+.div66 {
+  top: 979px;
+}
+.div64,
+.div65,
+.div66 {
+  top: 1121px;
+}
+.div65,
+.div66 {
+  top: 1170px;
+}
+.div66 {
+  top: 1278px;
+}
+.div67 {
+  bottom: 231px;
+}
+.div67,
+.div68,
+.div69,
+.div70,
+.div71,
+.div72,
+.div73 {
+  position: absolute;
+  left: 149px;
+  font-size: var(--font-size-131xl);
+  color: var(--color-gray-900);
+}
+.div68 {
+  bottom: 181px;
+}
+.div69,
+.div70,
+.div71,
+.div72,
+.div73 {
+  top: 1221px;
+}
+.div70,
+.div71,
+.div72,
+.div73 {
+  top: 782px;
+}
+.div71,
+.div72,
+.div73 {
+  top: 574px;
+}
+.div72,
+.div73 {
+  top: 493px;
+}
+.div73 {
+  top: 532px;
+}
+.th-and-12th {
+  position: absolute;
+  top: 1260px;
+  left: 201px;
+}
+.academic-marksheets-for,
+.proof-of-semesterannual {
+  position: absolute;
+  top: 1310px;
+  left: 203px;
+}
+.proof-of-semesterannual {
+  top: 1358px;
+}
+.copy-of-aadhaar,
+.proof-of-semesterannual1 {
+  position: absolute;
+  bottom: 313px;
+  left: 201px;
+}
+.copy-of-aadhaar {
+  bottom: 258px;
+  left: 209px;
+}
+.family-income-proof-container {
+  position: absolute;
+  bottom: 175px;
+  left: 209px;
+}
+.overview-child6,
+.overview-child7 {
+  position: absolute;
+  border-radius: var(--br-41xl);
+}
+.overview-child6 {
+  top: 728px;
+  right: 108px;
+  background-color: var(--color-crimson-200);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.16);
+  width: 329px;
+  height: 102px;
+}
+.overview-child7 {
+  top: 1293px;
+  right: 128px;
+  background-color: var(--color-goldenrod);
+  width: 290px;
+  height: 92px;
+}
+.apply32,
+.submit3 {
+  position: absolute;
+  top: 758px;
+  right: 224px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  text-shadow: 10px 10px 10px rgba(251, 251, 251, 0.16);
+}
+.submit3 {
+  top: 1318px;
+  right: 211px;
+}
+.lt-build-india {
+  position: absolute;
+  top: 312px;
+  right: 115px;
+  font-size: var(--font-size-6xl);
+}
+.jspn-scholarship,
+.national-scholarship-exam,
+.siemens-scholarship-program2 {
+  position: absolute;
+  top: 406px;
+  right: 101px;
+  font-size: var(--font-size-6xl);
+}
+.jspn-scholarship,
+.national-scholarship-exam {
+  top: 499px;
+  right: 115px;
+}
+.jspn-scholarship {
+  top: 593px;
+  right: 176px;
+}
+.overview-child8,
+.overview-child9 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.overview-child8 {
+  top: 263.5px;
+  right: 115.5px;
+  border-top: 1px solid var(--color-dimgray-100);
+  width: 326px;
+  height: 2px;
+  opacity: 0.5;
+}
+.overview-child9 {
+  top: 201.5px;
+  left: 1401.5px;
+  border-right: 1px solid var(--color-dimgray-100);
+  width: 2px;
+  height: 603px;
+  opacity: 0.49;
+}
+.dayanad-logo-icon {
+  position: absolute;
+  top: 162px;
+  left: 1184px;
+  width: 189px;
+  height: 34px;
+  object-fit: cover;
+}
+.overview-child10 {
+  position: absolute;
+  top: 990.5px;
+  left: 1401.5px;
+  border-right: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 2px;
+  height: 380px;
+  opacity: 0.5;
+}
+.feedback1 {
+  position: absolute;
+  top: 928px;
+  right: 194px;
+  font-size: var(--font-size-18xl);
+  color: var(--color-darkslateblue-100);
+}
+.overview-child11,
+.overview-child12 {
+  position: absolute;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.overview-child11 {
+  top: 1020px;
+  right: 66px;
+  border-radius: var(--br-7xl);
+  width: 398px;
+  height: 174px;
+}
+.overview-child12 {
+  top: 1205px;
+  right: 259px;
+  width: 1px;
+  height: 1px;
+}
+.write-your-views1 {
+  position: absolute;
+  top: 1042px;
+  right: 254px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  color: var(--color-darkslateblue-100);
+}
+.icons8-star-505 {
+  position: absolute;
+  top: 1205px;
+  left: 1522px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.icons8-star-506,
+.icons8-star-507,
+.icons8-star-508,
+.icons8-star-509 {
+  position: absolute;
+  top: 1205px;
+  right: 297px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.icons8-star-507,
+.icons8-star-508,
+.icons8-star-509 {
+  right: 248px;
+}
+.icons8-star-508,
+.icons8-star-509 {
+  right: 197px;
+}
+.icons8-star-509 {
+  right: 148px;
+}
+.overview-child13 {
+  position: absolute;
+  top: 990.5px;
+  right: 176.5px;
+  border-top: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 197px;
+  height: 2px;
+}
+.about-us12,
+.home9 {
+  position: absolute;
+  top: calc(50% - 20px);
+  left: calc(50% + 388px);
+  font-weight: 600;
+  cursor: pointer;
+}
+.about-us12 {
+  top: calc(50% - 21px);
+  left: calc(50% + 514px);
+}
+.icons8-graduation-cap-50-29 {
+  position: absolute;
+  bottom: 0;
+  left: 66px;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+}
+.hischolars11 {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: 159px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-sitka-small);
+  color: var(--color-darkslateblue-100);
+}
+.icons8-search-509 {
+  position: absolute;
+  top: calc(50% - 20px);
+  right: 156px;
+  width: 41px;
+  height: 41px;
+  object-fit: cover;
+}
+.icons8-circled-user-male-skin-7 {
+  position: absolute;
+  height: calc(100% - 25px);
+  top: 13px;
+  right: 47px;
+  bottom: 12px;
+  max-height: 100%;
+  width: 65px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.icons8-notification-507 {
+  position: absolute;
+  top: calc(50% - 19px);
+  right: 241px;
+  width: 38px;
+  height: 38px;
+  object-fit: cover;
+}
+.home-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 10px 6px rgba(44, 115, 209, 0.5);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 90px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-silver-200);
+}
+.icons8-back-arrow-484 {
+  position: absolute;
+  top: 162px;
+  left: 116px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.overview {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1759px;
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-segoe-ui);
+}

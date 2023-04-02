@@ -1,0 +1,207 @@
+.background1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(225.1deg, #feb139, #d61c4e);
+  width: 2124px;
+  height: 1080px;
+  opacity: 0.86;
+}
+.login-child {
+  position: absolute;
+  top: 118px;
+  left: 380px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1365px;
+  height: 844px;
+}
+.forgot-your-password2,
+.forgot-your-password3 {
+  position: absolute;
+  bottom: 154.5px;
+  left: 1267px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-larsseit);
+  color: var(--color-gray-100);
+}
+.forgot-your-password3 {
+  left: 1535px;
+}
+.rectangle1 {
+  position: absolute;
+  bottom: 190px;
+  left: 1266.97px;
+  background-color: var(--color-lightgray-100);
+  width: 450.17px;
+  height: 1px;
+}
+.share-your1 {
+  margin: 0;
+}
+.share-your-awesomeness1 {
+  position: absolute;
+  top: 184.5px;
+  left: 1361px;
+  font-size: var(--font-size-11xl);
+  line-height: 51px;
+  font-family: var(--font-lucida-fax);
+  text-align: center;
+}
+.z-2108w023n001896bp1896-icon1 {
+  position: absolute;
+  top: 117.5px;
+  left: 380px;
+  border-radius: var(--br-9xs);
+  width: 845px;
+  height: 845px;
+  object-fit: cover;
+}
+.by-continuing-you-container1 {
+  position: absolute;
+  top: 808.38px;
+  left: 1339.21px;
+  line-height: 18px;
+  font-family: var(--font-montserrat);
+  text-align: center;
+}
+.sign-in {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 28.04px);
+  letter-spacing: 0.6px;
+  line-height: 13px;
+  text-transform: uppercase;
+}
+.default-button1 {
+  top: 625.38px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-crimson-100);
+  width: 410.58px;
+  height: 48px;
+  text-align: center;
+  color: var(--color-white);
+}
+.default-button1,
+.login-item,
+.password1 {
+  position: absolute;
+  left: 1279.13px;
+}
+.login-item {
+  bottom: 499.62px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 410.58px;
+  height: 48px;
+}
+.password1 {
+  top: 508.38px;
+  font-size: 13px;
+  font-weight: 500;
+}
+.login-inner {
+  position: absolute;
+  bottom: 591.62px;
+  left: 1280.13px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 410.58px;
+  height: 48px;
+}
+.email1,
+.forgot-password {
+  position: absolute;
+  font-weight: 500;
+}
+.email1 {
+  top: 415.38px;
+  left: 1280.13px;
+}
+.forgot-password {
+  top: 592.88px;
+  right: 732.72px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-brandon-grotesque);
+  color: var(--color-darkgray-200);
+  text-align: center;
+}
+.log-in1,
+.or-sign-in {
+  position: absolute;
+  top: 309.38px;
+  left: 1441.36px;
+  font-size: var(--font-size-2xl);
+}
+.or-sign-in {
+  top: 676.38px;
+  left: 1432.34px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-brandon-grotesque);
+  color: var(--color-darkgray-200);
+  text-align: center;
+}
+.icons8-facebook-60 {
+  position: absolute;
+  top: 714.38px;
+  left: 1303.16px;
+  width: 78.11px;
+  height: 78.11px;
+  object-fit: cover;
+}
+.dont-have-an-accoun {
+  position: absolute;
+  top: 354.38px;
+  left: 1303.16px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-montserrat);
+  color: #b7afaf;
+}
+.create-yours-now1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.create-yours-now {
+  position: absolute;
+  top: 357.38px;
+  left: 1519px;
+  width: 100px;
+  height: 19px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: rgba(43, 43, 43, 0.74);
+  font-family: var(--font-montserrat);
+}
+.group-icon {
+  position: absolute;
+  top: 711px;
+  left: 1455.29px;
+  width: 191.36px;
+  height: 78.11px;
+}
+.icons8-back-arrow-482 {
+  position: absolute;
+  top: 78px;
+  left: 100px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.login {
+  position: relative;
+  background-color: var(--color-crimson-200);
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-200);
+  font-family: var(--font-agrandir-variable);
+}
